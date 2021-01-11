@@ -20,11 +20,11 @@ git clone https://github.com/ambmiraj007/miraj008
 
 Is
 
-cd miraj
+cd miraj008
 
 Is
 
-python2 miraj.py
+python2 miraj008.py
 
 
 
