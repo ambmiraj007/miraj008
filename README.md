@@ -2,9 +2,7 @@
 
 ##Commands tool
 
-pkg update
-
-pkg upgrade
+pkg update && pkg upgrade
 
 pkg install python
 
@@ -18,13 +16,9 @@ pip2 install mechanize
 
 git clone https://github.com/ambmiraj007/miraj008
 
-Is
+cd python
 
-cd miraj
-
-Is
-
-python2 miraj.py
+python2 python.py
 
 
 
