@@ -1,26 +1,32 @@
 ## This is A teasting tool.
 
-## Command’s Tools.
+##Commands tool
 
-* pkg update
+pkg update
 
-*pkg upgrade
+pkg upgrade
 
-* pkg install git
+pkg install python
 
-* pkg install python
+pkg install python2
 
-*pkg install python2
+pkg install git
 
-* pip2 install requests
+pip2 install requests
 
-* pip2 install mechanize
+pip2 install mechanize
 
-* git clone https://github.com/ambmiraj007/miraj008
+git clone https://github.com/ambmiraj007/miraj008
 
-* cd miraj
+Is
 
-* python2 Miraj.py
+cd miraj
+
+Is
+
+python2 miraj.py
+
+
 
 
 
