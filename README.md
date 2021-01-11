@@ -20,11 +20,11 @@ git clone https://github.com/ambmiraj007/miraj008
 
 Is
 
-cd bvai
+cd miraj
 
 Is
 
-python2 bvai.py
+python2 miraj.py
 
 
 
