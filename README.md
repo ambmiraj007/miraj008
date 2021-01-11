@@ -2,21 +2,25 @@
 
 ## Command’s Tools.
 
-* pkg update&&pkg upgrade
+* pkg update
+
+*pkg upgrade
 
 * pkg install git
 
-* pkg install python&python2
+* pkg install python
+
+*pkg install python2
 
 * pip2 install requests
 
 * pip2 install mechanize
 
-* gi tclone https://github.com/ambmiraj007/miraj008
+* git clone https://github.com/ambmiraj007/miraj008
 
 * cd miraj
 
 * python2 Miraj.py
 
 
-##Thanks for using my commands
+
