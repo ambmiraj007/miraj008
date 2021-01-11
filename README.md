@@ -16,9 +16,9 @@ pip2 install mechanize
 
 git clone https://github.com/ambmiraj007/miraj008
 
-cd python
+cd miraj008
 
-python2 python.py
+python2 miraj008.py
 
 
 
